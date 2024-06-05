@@ -1,2 +1,2 @@
 # Identifying-Best-Model-on-Iris-Dataset
-This is an academic project. 
+This is a Machine Learning academic project. 
